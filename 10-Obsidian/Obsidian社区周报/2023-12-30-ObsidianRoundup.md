@@ -154,7 +154,7 @@ modified: 20231230205335
 ### 未上架插件
 
 > [!Caution]
-> **注意：社区列表中尚未提供所有新插件，因为它们需要先经过代码审查。您可以使用 [Beta Reviewer 的自动更新工具](https://github.com/TfTHacker/obsidian42-brat?ref=eleanorkonik.com) 手动安装社区列表中尚未包含的插件。但请注意，这并不像等待他们通过代码审查那么安全。**
+> **注意：社区列表中尚未提供所有新插件，因为它们需要先经过代码审查。您可以使用 [Beta Reviewer 的自动更新工具](https://github.com/TfTHacker/obsidian42-brat?ref=eleanorkonik.com) 手动安装社区列表中尚未包含的插件。但请注意，这并不像等待它们通过代码审查那么安全。**
 
 [**PDF++**](https://github.com/RyotaUshio/obsidian-pdf-plus) by _RyotaUshio_ 一个用于增强内置的 PDF 查看器和 PDF 嵌入的插件，目前拥有的功能包括：
 
