@@ -39,6 +39,19 @@ modified: 20240121002214
 
 [Quick Plugin Switcher v5.1.7](https://github.com/1C0D/obsidian-quick-plugin-switcher/releases/tag/5.1.7) by _1C0D_ 平板电脑/手机更新。现在所有设置都可以访问。
 
+[Task Progress Bar v2.0.0](https://github.com/Quorafind/Obsidian-Task-Progress-Bar/releases/tag/2.0.0) by _Quorafind/Boninall_ 会自动为那些有子任务的任务添加进度条，并且**不需要**为此功能添加任何标记。现在它支持数据视图/看板以及阅读模式。并支持百分比模式。
+
+[Obsidian Open Gate v1.11.1](https://github.com/nguyenvanduocit/obsidian-open-gate/releases/tag/1.11.1) by _DuocNV_ 现在允许用户在嵌入式网站上执行自定义 js。
+
+[Periodic PARA v1.8.0](https://github.com/quanru/obsidian-periodic-para/releases/tag/1.8.0) by _YiBing Lin_ 增强了日历样式。
+
+[Tasks 6.0.0](https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/6.0.0) by _Martin Schenck and Clare Macrae_ 新增 [自定义排序](https://publish.obsidian.md/tasks/Scripting/Custom+Sorting)。此版本在以下方面进行了重大改进：
+
+- 默认排序顺序
+- 如何处理无效日期
+- 铅笔和推迟按钮的样式
+有关这些更改的完整详细信息，请参阅 [重大更改](<https://publish.obsidian.md/tasks/Support+and+Help/Breaking+Changes#Tasks+6.0.0+(19+January+2024)>。
+
 #### 正在审核
 
 > [!Caution]
@@ -57,19 +70,6 @@ modified: 20240121002214
 [Obsidian Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab) by _Andrew McGivery_ 可创建具有精美背景、引号、搜索等的可自定义新选项卡视图。
 
 [Obsidian Soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes) by _Andrew McGivery_ 可在状态栏中添加音乐/氛围播放器，以播放 Lofi 音乐、自然音乐、环境音乐、轻松音乐等。
-
-[Task Progress Bar v2.0.0](https://github.com/Quorafind/Obsidian-Task-Progress-Bar/releases/tag/2.0.0) by _Boninall_ 会自动为那些有子任务的任务添加进度条，并且**不需要**为此功能添加任何标记。现在它支持数据视图/看板以及阅读模式。并支持百分比模式。
-
-[Obsidian Open Gate v1.11.1](https://github.com/nguyenvanduocit/obsidian-open-gate/releases/tag/1.11.1) by _DuocNV_ 现在允许用户在嵌入式网站上执行自定义 js。
-
-[Periodic PARA v1.8.0](https://github.com/quanru/obsidian-periodic-para/releases/tag/1.8.0) by _YiBing Lin_ 增强了日历样式。
-
-[Tasks 6.0.0](https://github.com/obsidian-tasks-group/obsidian-tasks/releases/tag/6.0.0) by _Martin Schenck and Clare Macrae_ 新增 [自定义排序](https://publish.obsidian.md/tasks/Scripting/Custom+Sorting)。此版本在以下方面进行了重大改进：
-
-- 默认排序顺序
-- 如何处理无效日期
-- 铅笔和推迟按钮的样式
-有关这些更改的完整详细信息，请参阅 [重大更改](<https://publish.obsidian.md/tasks/Support+and+Help/Breaking+Changes#Tasks+6.0.0+> (19+January+2024)。
 
 ## 其他新闻
 
