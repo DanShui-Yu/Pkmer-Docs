@@ -133,8 +133,8 @@ modified: 20240331011536
 
 
 /* @settings
-from：上善若水
-name: 【无序List】卡片化阅览
+from: 上善若水
+name: "【无序List】卡片化阅览"
 id: wxlbMH
 settings:
   -
