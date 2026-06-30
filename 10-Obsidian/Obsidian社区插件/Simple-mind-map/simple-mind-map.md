@@ -22,7 +22,7 @@ modified: 20260630114000
 > - 国内下载：[PKMer 插件市场](https://pkmer.cn/products/plugin/pluginMarket/?simple-mind-map)
 > - 专业版介绍：[PKMer SimpleMindMap 落地页](https://pkmer.cn/products/simplemindmap/)
 > - 使用文档：[帮助文档](https://github.com/wanglin2/obsidian-simplemindmap/blob/main/docs/help_zh.md)
-> - 功能清单：[[10-Obsidian/Obsidian社区插件/Simple-mind-map/README|README]]
+> - 功能清单：[[SimpleMindMap插件专业版功能清单|SimpleMindMap插件专业版功能清单]]
 
 ![Simple mind map](https://cdn.pkmer.cn/images/202606051235430.gif!pkmer)
 
@@ -34,7 +34,7 @@ modified: 20260630114000
 2. **适用场景**：适合用 Obsidian 做课程大纲、项目拆解、读书笔记、会议复盘、知识结构梳理和汇报材料准备的用户。
 3. **核心特色**：延续 Obsidian 本地优先的使用习惯，支持双链、标签、备注、嵌入编辑、多语言和多结构脑图视图。
 4. **使用建议**：如果只需要基础脑图编辑，可从 Obsidian 官方社区插件页或 PKMer 插件市场安装；如果需要更多导入导出、专属结构和交付能力，可查看 [专业版介绍页](https://pkmer.cn/products/simplemindmap/)。
-5. 功能清单：[[10-Obsidian/Obsidian社区插件/Simple-mind-map/README|README]]
+5. 功能清单：[[SimpleMindMap插件专业版功能清单|SimpleMindMap插件专业版功能清单]]
 
 Simple mind map 是 PKMer 与 wanglin 老师合作推进的 Obsidian 思维导图插件，底层能力来自 [mind-map](https://github.com/wanglin2/mind-map) 项目。它的目标不是替代 Markdown，而是让线性笔记可以在需要时生长为可视化图谱，并在整理、演示、导出之间保持同一套知识资产。
 
